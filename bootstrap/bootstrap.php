@@ -10,7 +10,8 @@ define('PUBLIC_DIR', SYSTEM_DIR.'/public');
 define('VENDOR_DIR', SYSTEM_DIR.'/vendor');
 
 //require_once the 3 files that we added / created
-require_once VENDOR_DIR . '/codingbootcamp/exercises/db.php';
+require_once VENDOR_DIR . '/codingbootcamp/exercises/db.php';//database
+
 require_once VENDOR_DIR . '/codingbootcamp/tinymvc/request.php';
 require_once VENDOR_DIR . '/polakjan/tinymvc/config.php';
 
