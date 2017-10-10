@@ -1,4 +1,5 @@
-##MVC: The Notes project
+MVC: Note project
+======================
 #User Stories
 
 #You want to put in a note
